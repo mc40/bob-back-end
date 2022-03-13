@@ -1,0 +1,35 @@
+[
+    {
+    "Power Demand": "1.0",
+    "Train 1 ARL": 1.0,
+    "Train 2 ARL": 0.6,
+    "Train 3 ARL": 0.1
+},
+{
+    "Power Demand": "4.719",
+    "Train 1 ARL": 1.0,
+    "Train 2 ARL": 0.7,
+    "Train 3 ARL": 0.1
+},        
+{
+    "Power Demand": "4.770",
+    "Train 1 ARL": 1.0,
+    "Train 2 ARL": 0.8,
+    "Train 3 ARL": 0.1
+},{
+    "Power Demand": "4000.770",
+    "Train 1 ARL": 1.111110,
+    "Train 2 ARL": 0.8,
+    "Train 3 ARL": 0.11
+},{
+    "Power Demand": "40.770",
+    "Train 1 ARL": 1.0,
+    "Train 2 ARL": 0.8,
+    "Train 3 ARL": 10.1
+},{
+    "Power Demand": "400.770",
+    "Train 1 ARL": 1.0,
+    "Train 2 ARL": 0.8,
+    "Train 3 ARL": 110.1
+}
+]
